@@ -12,18 +12,18 @@ You will need to have the Expo client installed to view the app. Documentation f
 
 ### Dashboard Tab
 
-![dashboard tab](screenshots/dashboard_view.png "24 Hours of Earthquakes dashboard tab")
+<img src="screenshots/dashboard_view.png" alt="dashboard tab" width="340">
 
 When the app first loads, the dashboard tab shows featured earthquake event information from the last 24 hours.
 
 ### In App Browser
 
-![in-app browser](screenshots/in_app_browser.png "In app browser having clicked link to see further information on the USGS API")
+<img src="screenshots/in_app_browser.png" alt="in-app browser" width="340">
 
 Clicking the link at the bottom of the dashboard tab opens an in-app browser directed to the US Geological Survey API page.
 
 ### Map Tab
 
-![Full screen map tab](screenshots/map_view.png "Full screen map tab displaying all registered earthquake events from the last 24 hours")
+<img src="screenshots/map_view.png" alt="full screen map tab" width="340">
 
 The map tab displays all registered earthquake events from the last 24 hours. The radius of the coloration around the earthquake event relates to the earthquake magnitude. Clicking on any individual event displays further information in a callout bubble.
